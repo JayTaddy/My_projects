@@ -138,9 +138,9 @@ struct var
     static const long double value;
 };
 
-const long double var::value = static_cast<long double>(0);
+const long double var::value = static_cast<long double>(0.5);
 
 int main () {
-  std::cout << PI << std::endl;
-  std::cout << cos<var, 8>::value  << std::endl;
+  std::cout << sinSin<cosCos<logLog<expExp<var, 2>, 2>, 3>, 4>::value  << std::endl;
 }
+
