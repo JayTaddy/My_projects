@@ -9,6 +9,9 @@ To compile project you have to :
   5) ./a.out (or other *.out that you have named*/
 
 Project list :
+
   -PseudoGenerators (2 types of code)
+  
   -Taylor's series made like a metaprogramm (different math funtions like sin, cos, exp, ln)
+  
   -Encryption (using RSA algorithm)
