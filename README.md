@@ -1,1 +1,1 @@
-#  the problem of Taylor series based on meta-programming using templates (all computations are performed at the compilation stage, computations for ln (1 + x), sin (x), cos (x), exp (x) also write calculations for factorial and recursive call to call these functions from each other).
+The problem of Taylor series based on meta-programming using templates (all computations are performed at the compilation stage, computations for ln (1 + x), sin (x), cos (x), exp (x) also write calculations for factorial and recursive call to call these functions from each other).
