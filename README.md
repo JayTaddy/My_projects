@@ -15,3 +15,5 @@ Project list :
   -Taylor's series made like a metaprogramm (different math funtions like sin, cos, exp, ln)
   
   -Encryption (using RSA algorithm)
+    
+  -Searching Algorithms(graphs)
